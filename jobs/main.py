@@ -19,7 +19,7 @@ BIRMINGHAM_COORDINATES = {"latitude": 52.4862, "longitude": -1.8904}
 # API Keys (You'll need to register for free accounts)
 OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY", "7d7c65d956208ba603fc9ac680e53663")
 TOMTOM_API_KEY = os.getenv("TOMTOM_API_KEY", "ulVcCl89ueHANpf5nkDK6EFM96iob9Ew")
-OPENTRIPMAP_API_KEY = os.getenv("OPENTRIPMAP_API_KEY", "your_opentripmap_api_key")
+OPENTRIPMAP_API_KEY = os.getenv("OPENTRIPMAP_API_KEY", "your_opentrippmap_api_key")
 
 # Kafka Configuration
 KAFKA_BOOTSTRAP_SERVERS = os.getenv("KAFKA_BOOTSTRAP_SERVERS", "localhost:9092")
