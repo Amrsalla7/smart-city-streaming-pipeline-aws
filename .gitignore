@@ -1,0 +1,6 @@
+.venv
+.env
+jobs/config.py
+server.properties
+.idea
+jobs/__pycache__/
